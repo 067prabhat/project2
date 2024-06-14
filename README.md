@@ -1,3 +1,3 @@
 # New project
 
-My new Project  
+My new Project.
